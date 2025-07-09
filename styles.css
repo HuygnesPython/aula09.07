@@ -4,28 +4,24 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     border-radius: 8px;
     background-color: black;
+    padding: 3px;
 }
 .caixa{
-    width: 100px;
-    height: 100px;
-    border: black 1px solid;
+    width: 80px;
+    height: 80px;
+    border: black 3px dashed;
+    margin: 5px 10px;
+    /* margin-left: 20px; */
+    padding: 5px;
+    display: inline-block;
     background-color: yellow;
 }
 .caixa2{
-    width: 100px;
-    height: 100px;
-    border: black 1px solid;
     background-color: aqua;
 }
 .caixa3{
-    width: 100px;
-    height: 100px;
-    border: black 1px solid;
     background-color: rgb(201, 17, 243);
 }
 .caixa4{
-    width: 100px;
-    height: 100px;
-    border: black 1px solid;
     background-color: red;
 }
